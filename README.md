@@ -1,10 +1,10 @@
 # MIKS
 
-## Factory Method
-![Factory Method](./BankManager_diagram.drawio.png)
+## Decorator
+![Decorator](./SmartHome_diagram.drawio.png)
 
-## Builder
-![Builder](./BuilderSystemBlock_diagram.drawio.png)
+## Flyweight
+![Flyweight](./Potion_diagram.drawio.png)
 
 ## Information
 <table style="width: 100%;" border="1">

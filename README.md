@@ -1,10 +1,10 @@
 # MIKS
 
-## Decorator
-![Decorator](./SmartHome_diagram.drawio.png)
+## Mediator
+![Mediator](./RepairСrews_diagram.drawio.png)
 
-## Flyweight
-![Flyweight](./Potion_diagram.drawio.png)
+## Memento
+![Memento](./PresetSystem_diagram.drawio.png)
 
 ## Information
 <table style="width: 100%;" border="1">
